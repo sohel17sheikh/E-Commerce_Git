@@ -6,8 +6,6 @@ public interface User_Product_DB {
 
 	public void createProductDatabase();
 
-	
-
-	
+	public void createTable();
 
 }
